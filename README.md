@@ -23,4 +23,4 @@ the number of doublings applied to get the branching factor:
 `branchFactorExponent = 0` → 1 child per node, `= 1` → 2 children (an ordinary
 binary heap), `= 2` → 4 children, and so on.
 
-## Compiling and running
+~ AP ;)
